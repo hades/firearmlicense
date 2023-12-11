@@ -1,0 +1,11 @@
+repos:
+-   repo: https://github.com/hades/pre-commit-hooks
+    rev: 42bc79146f8b566f640ff773057d48a9416763a7
+    hooks:
+    -   id: check-added-large-files
+    -   id: check-merge-conflict
+    -   id: check-xml
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: mixed-line-ending
+    -   id: trailing-whitespace
