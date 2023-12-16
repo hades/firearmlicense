@@ -1,6 +1,6 @@
 {
   "name": "firearmlicense",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/hades/firearmlicense/",
   "description": "Allows you to purchase Nutcracker shotguns from the store",
   "dependencies": [
